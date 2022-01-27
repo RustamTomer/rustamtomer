@@ -26,7 +26,7 @@ Skills: PYTHON / REACT/ HTML
 - 💬 Ask me about Python 
 - 📫 How to reach me: [HERE👀](https://www.linkedin.com/in/rustam-singh-tomer-95498521b/) 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Rome wasn't build in a day - so don't burn out yourself. 
+- ⚡ Fun fact: Rome wasn't built in a day - so don't burn out yourself. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RustamTomer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rustam-singh-tomer-95498521b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rustamtomer/)  
