@@ -15,21 +15,19 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, my name is Rustam
 #### I am a computer science undergraduate
-I have intermediary knowledge of python including DSA and familiarity with HTML & React.
+I am an aspiring Data Analyst.
 
-Skills: PYTHON / REACT/ HTML
+Skills: PYTHON / SQL / Excel / Tableau / PowerBI / Postgres
 
-- 🔭 I’m currently working on HTML & CSS 
-- 🌱 I’m currently learning MERN Stack 
-- 👯 I’m looking to collaborate on Web Development 
-- 🤔 I’m looking for help with Machine Learning 
-- 💬 Ask me about Python 
+- 🔭 I’m currently working on Tableau 
+- 🌱 I’m currently learning more about Data Analysis 
+- 💬 Ask me about Data Analysis
 - 📫 How to reach me: [HERE👀](https://www.linkedin.com/in/rustam-singh-tomer-95498521b/) 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Rome wasn't built in a day - so don't burn out yourself. 
+- ⚡ Fun fact: Rome wasn't built in a day - so don't stop learning and never quit. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RustamTomer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rustam-singh-tomer-95498521b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rustamtomer/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RustamTomer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rustam-singh-tomer-95498521b/)
 
 
 
