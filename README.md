@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, my name is Rustam
-#### I am a computer science undergraduate
-I am an aspiring Data Analyst.
+#### I am a computer science postgrad student
 
-Skills: PYTHON / SQL / Excel / Tableau / PowerBI / Postgres
+Skills: JS / PYTHON / SQL / Excel / Tableau / PowerBI / Postgres
 
-- 🔭 I’m currently working on Tableau 
-- 🌱 I’m currently learning more about Data Analysis 
-- 💬 Ask me about Data Analysis
+- 🔭 I’m currently working on JS & ML. 
+- 🌱 I’m currently learning more about AI Full Stack Development and Machine Learning. 
+- 💬 Ask me about Web Development / Data Analytics
 - 📫 How to reach me: [HERE👀](https://www.linkedin.com/in/rustam-singh-tomer-95498521b/) 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Rome wasn't built in a day - so don't stop learning and never quit. 
