@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, my name is Rustam
-#### I am a computer science postgrad student
+#### I am a computer science grad
 
 Skills: JS / PYTHON / SQL / Excel / Tableau / PowerBI / Postgres
 
